@@ -1,6 +1,7 @@
 """
 Created on 13-05-2020
 @author: Gobalakrishnan Viswanathan
+@credits: https://github.com/arapfaik/scraping-glassdoor-selenium/blob/master/glassdoor%20scraping.ipynb
 """
 import os
 from pathlib import Path
