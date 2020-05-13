@@ -1,0 +1,163 @@
+,Job Title,Salary Estimate,Job Description,Rating,Company Name,Location,Headquarters,Size,Founded,Type of ownership,Industry,Sector,Revenue,Competitors
+0,Data Scientist - Deep Learning,$129K-$142K (Glassdoor Est.),"Position Overview
+
+The Climate Corporation’s mission is to help the world’s farmers sustainably increase their productivity with digital tools. The Data and Analytics team is focused on creating competitive advantage for The Climate Corporation and our customers through novel data infrastructure, metrics, insights, and data services. We are a small but rapidly growing data science and engineering team that builds and leverages state-of-the-art analytics systems. Our work informs decisions and direction for our business, while also impacting our products. Data Scientists at The Climate Corporation build predictive and prescriptive models to deliver insights to farmers. In order to take advantage of increasing amounts of agricultural and environmental data, we are hiring new data scientists to drive the research and development of scalable machine learning models. In this role, your work will broadly influence the company's data and products.
+
+What You Will Do:
+Build and implement state-of-the-art machine learning and deep learning systems
+Help to define the infrastructure required to train models at scale
+Work with data engineers to build real time and offline features and maintain the datasets from which models are created
+Partner with scientists and product experts in the R&D organization to build scalable models that support our suite of decision support services
+Help to assess new technologies for data scientists at The Climate Corporation
+Basic Qualifications:
+B.Sc. in Statistics, Mathematics, Computer Science or other relevant technical field
+Either minimum two years of experience in applying statistical/machine learning solutions on a scalable platform to real-world applications, or M.A. or M.Sc. in machine learning, statistics, applied mathematics, or an equivalent technical field
+Fully proficient in Python (including PySpark)
+Experience with at least one Deep Learning framework, including Tensorflow and/or Torch/Pytorch
+Strong software engineering fundamentals
+Preferred Qualifications:
+Ph.D. in machine learning, statistics, applied mathematics or other relevant technical field
+Experience building distributed systems and/or scalable backend systems with the ability to maintain in production
+Proficiency in developing performant large-scale queries using SQL, Hive or Pig
+Experience with a cloud platform such as AWS
+Proficiency with SQL, R, Scala
+Experience working with Engineering and Product organizations using an Agile development process
+What We Offer:
+
+Our teams are composed of industry experts, top scientists, and talented engineers. The environment is extremely engaging and fast-paced, with dozens of specialties coming together to provide the best possible products and experiences for our customers.
+
+We provide competitive salaries and some of the best perks in the industry, including:
+Superb medical, dental, vision, life, disability benefits, and a 401k matching program
+A stocked kitchen with a large assortment of snacks & drinks to get you through the day
+Encouragement to get out of the office and into the field with agents and farmers to see first-hand how our products are being used
+We take part and offer various workshops, conferences, meet-up groups, tech-talks, and hackathons to encourage participation and growth in both community involvement and career development
+We also hinge our cultural DNA on these five values:
+Inspire one another
+Innovate in all we do
+Leave a mark on the world
+Find the possible in the impossible
+Be direct and transparent
+Learn more about our team and our mission:
+
+The Climate Corporation - The Technology Behind Making A Difference
+
+https://youtu.be/c5TgbpE9UBI or visit https://climate.com/careers
+
+Climate aims to create a welcoming and collaborative environment for our employees in which a diverse set of perspectives and voices are represented and celebrated.
+
+As part of our dedication to the diversity of our workforce, The Climate Corporation is committed to Equal Employment Opportunity and does not discriminate based on race, religion, color, national origin, ethnicity, gender, sex (including pregnancy), protected veteran status, age, disability, sexual orientation, gender identity, gender expression, or any unlawful criterion existing under applicable federal, state, or local laws. If you need assistance or an accommodation due to a disability, you may contact us at accommodations@climate.com.",3.2,"The Climate Corporation
+3.2","San Francisco, CA","San Francisco, CA",501 to 1000 employees,2006,Subsidiary or Business Segment,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,"Granular, Intuit, John Deere"
+1,Data Scientist,$129K-$142K (Glassdoor Est.),"About Netskope
+
+Today, there's more data and users outside the enterprise than inside, causing the network perimeter as we know it to dissolve. We realized a new perimeter was needed, one that is built in the cloud and follows and protects data wherever it goes, so we started Netskope to redefine Cloud, Network and Data Security.
+
+Since 2012, we have built the market-leading cloud security company and an award-winning culture powered by hundreds of employees spread across offices in Santa Clara, San Francisco, Seattle, Bangalore, London, Melbourne, and Tokyo. Our core values are openness, honesty, and transparency, and we purposely developed our open desk layouts and large meeting spaces to support and promote partnerships, collaboration, and teamwork. From catered lunches and office celebrations to employee recognition events and social professional groups such as the Awesome Women of Netskope (AWON), we strive to keep work fun, supportive and interactive. Visit us at netskope.com/company/careers and follow us on Twitter @Netskope and Facebook.
+
+Data Scientist
+
+
+Within Netskope Engineering, the Security Services organization is responsible for building core security products and features, such as Data Loss Prevention, Malware and Threat Prevention, Cloud Confidence Index, Breach and Anomaly Detection. We apply Artificial Intelligence and Machine Learning technologies across Netskope cloud security platform. We are looking for talented data scientists with security domain knowledge. A successful candidate has deep technical expertise in applying AI/ML technologies in security applications and/or adjacent domains, ideally has been through the entire lifecycle of an award winning security product, and must be passionate about cloud security. You will have the opportunity to work with a team of talented engineers, researchers and data scientists to solve the most challenging cloud security problems.
+
+Responsibilities:
+Identify strong AI/ML use cases in cloud security, data security and adjacent domains, leveraging Netskope's rich set of data sources;
+Define scalable data acquisition and labeling strategy for specific use cases;
+Work with data engineers to retrieve, clean and normalize data. Ensure scalable and continuous high-quality data stream;
+Work closely with threat research and development team in feature engineering. Make sure high-quality feature sets are chosen in a systematic way;
+Select ML models for defined use cases. Implement KPIs to ensure optimal algorithms and results;
+Conduct strict internal testing to ensure high efficacy, low false positive and false negative rate;
+Interpret results and communicate findings;
+Document use case, data acquisition, feature engineering, training, validation, deployment, future improvement opportunity and other important aspects;
+Work closely with development and QE team in productization;
+Be an evangelist of AI/ML within Netskope. Promote AI/ML wherever applicable, beyond security use cases;
+Collaborate with data analytics team to define new platform requirements and continuously improve our horizontally scalable data lake.
+Qualifications/Requirements:
+
+
+First of all, must have true startup spirit. Be willing to wear multiple hats and deliver end-to-end;
+Ability of thinking out-of-box and evaluating results based on customer value;
+5+ years of industry experience in applying AI/ML, preferably on well-known security products or services, such as malware detection, anomaly detection, security analytics and data security;
+Experience of applying AI/ML in more than one domains highly desirable;
+Hands-on experience with relevant technology stacks such as CUDA, Python, R, Spark, Flink, Tensorflow;
+Hands-on experience using modern big data pipeline;
+Natural language process (NLP) and data mining experience highly desirable;
+Security research experience and strong security domain knowledge highly desirable;
+Energetic self-starter, with the desire to work in a dynamic fast-paced environment;
+Excellent verbal and written communication skills;
+Ability to influence without authority
+Education:
+
+
+PhD in Computer Science, Statistics, Electrical Engineering or equivalent technical degree.
+#LI-NW1",4.3,"Netskope
+4.3","San Francisco, CA","Santa Clara, CA",501 to 1000 employees,2012,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,"Skyhigh Networks, Zscaler, NortonLifeLock"
+2,Data Scientist,$129K-$142K (Glassdoor Est.),"So, what will you do as a Data Scientist at Notion?
+You'll build models to predict things like conversion and likelihood of churn.
+You'll build and maintain KPI dashboards that teams rely on for making key decisions.
+You'll collaborate with team leads across the business to understand and support their data needs.
+You'll build and improve our underlying data infrastructure and tooling. (We currently use DBT, Snowflake, Mode Analytics, Fivetran, Census, Amplitude, Segment, and more).
+You might be a fit for this role if...
+You've spent meaningful time as a senior data scientist — or even better, you've previously managed a team (there's opportunity to do that here).
+You have experience building predictive statistical and machine learning models, and you can build reproducible backtests for proposed models to demonstrate their effectiveness.
+You have experience building out data infrastructure which facilitates speed, reliability, and scalability.
+You are a SQL expert. You have no problem regularly leveraging window functions, UDFs, self-joins, and other complex SQL functions to accomplish your data analysis goals.
+You have a bias for using the right tools to get a job done with maximum efficiency. You are an expert at making tradeoffs between speed and accuracy.
+You have strong product sense and user intuition which inform the questions you ask of the data you are analyzing.",5.0,"Notion Labs
+5.0","San Francisco, CA","San Francisco, CA",1 to 50 employees,2016,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1
+3,Data Scientist,$129K-$142K (Glassdoor Est.),"Role Description
+As a data scientist at Triplebyte, you’ll have the opportunity to work on a variety of challenges to help us scale. You'll be part of a small team, who are leveraging data to fix technical hiring. Your day to day, will include a mix of dataset acquisition, statistical modeling, exploratory data analysis, and software engineering. You’ll report directly to Triplebytes' Head of Machine Learning and will work alongside a team of 6-8 machine learning engineers and data scientists.
+Fields your work will touch on
+Psychometrics
+Recommender systems
+Time series analysis
+Survival analysis
+Bayesian inference
+Probabilistic programming
+This is an ideal role for a data scientist who wants the scope and responsibility to own features/products from the inception and research phase through to measuring real-world results.
+
+About Triplebyte
+Triplebyte is a hiring marketplace used by companies like Apple, Dropbox, Stripe, and Instacart to hire the best technical talent. We are on a mission to build a meritocratic hiring process, and we do all our evaluation background blind. Our ultimate goal is to collect the largest dataset and use this to build the world's best technical hiring process. No other company has successfully done what we're doing in this field.
+We are growing extremely quickly, working on a problem that is fundamental, sitting at the crossroads between the workforce and employers. Ten years from now, it'll look silly to use anything other than Triplebyte for technical hiring.
+Company Culture
+We have a laid-back, friendly office culture. Over lunch you'll often find us discussing the latest in technology, books, and pop culture, and then maybe getting in a quick game of chess or babyfoot (foosball).
+Since we're an early-stage company, we move fast, and it's important that each member of our team is able to take ownership of projects by defining problems, brainstorming solutions, and running experiments.",3.6,"Triplebyte
+3.6","San Francisco, CA","San Francisco, CA",51 to 200 employees,2015,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,-1
+4,Customer Data Scientist,$129K-$142K (Glassdoor Est.),"Company Overview
+
+H2O.ai is the open source leader in AI with a mission to democratize AI for everyone. H2O.ai is transforming the use of AI with software with its category-creating visionary open source machine learning platform, H2O. More than 18,000 companies use open-source H2O in mission-critical use cases for Finance, Insurance, Healthcare, Retail, Telco, Sales and Marketing. H2O Driverless AI uses ""AI to do AI"" in order to provide an easier, faster and cost-effective means of implementing data science. H2O.ai partners with leading technology companies such as NVIDIA, IBM, AWS, Intel, Microsoft Azure and Google Cloud Platform and is proud of its growing customer base which includes Capital One, Progressive Insurance, Comcast, Walgreens and MarketAxess. For more information and to learn more about how H2O.ai is driving an AI Transformation, visit www.h2o.ai.
+
+Job Summary:
+Can you code proficiently in at least one language used by data scientists and/or data engineers, and does it excite you to learn more?
+Are you skilled at predictive modeling?
+Do you view communication skills just as important as technical ones?
+Can you listen to the needs of your peers and customers and adapt where need be?
+Do you have a competitive drive to be the best you can be?
+Can you finish what you start?
+Can you own assignments given to you?
+If the answer is ""yes"" to these questions, you potentially could be an excellent fit to join the team of customer engineering makers at H2O.ai. We deliver world-class solution experiences for our customers and drive revenue for our organization. Some of the technical projects you will work on include: training advanced machine learning models at scale in distributed environments, influencing next generation data science tools and data products, and pioneering ideas and products in new areas, such as machine learning interpretability, automatic machine learning, model management, deployment pipelines, and GPU computing.
+
+Responsibilities and Duties:
+
+As a Customer Data Scientist, you will be part of Customer Success team working closely with sales directors to:
+Problem solve and assess technical problems, determine solutions, and work with internal engineering and customer teams to resolve them.
+Demonstrate ML solutions with engaging storytelling and technical accuracy.
+Architect, Design, and Deliver end to end machine learning workflows and systems from data ingestion to model deployment.
+Provide best practices and guidance to customers on machine learning workflows and systems from data ingestion to model deployment.
+Own account-related technical activities and relationships.
+Translate business use cases and requirements into technical ones.
+Communicate effectively to a diverse audience, including: engineers, business people, and executives. Audiences will be large and small, and interactions will be in-person and online.
+Drive field feedback back into product development and be very hands-on for all technical activities.
+Qualifications and Skills
+Bachelor's degree in engineering, computer science, mathematics or a related field. Graduate degree is a plus.
+2+ years experience with performing hands on Data Science and Machine Learning
+Knowledge of a variety of machine learning techniques (clustering, decision tree learning, artificial neural networks, etc.) and their real-world advantages/drawbacks.
+Visualization skills using R, Python or other languages and frameworks.
+Knowledge of advanced statistical techniques and concepts (regression, properties of distributions, statistical tests and proper usage, etc.) and experience with applications.
+2+ years experience using statistical computer languages (R, Python, etc.) to manipulate data and draw insights from large data sets.
+2+ year working with data in Hadoop and /or Spark ecosystem
+Desirable: Maker mindset, coachable, and have an urge to learn/master new technologies
+H2O.ai Perks!
+Flexible work hours and time off.
+H2O.ai is an equal opportunity employer. We welcome and encourage diversity in the workplace regardless of race, gender, sexual orientation, gender identity, disability or veteran status.
+
+Powered by JazzHR",4.2,"h2o.ai
+4.2","Mountain View, CA","Mountain View, CA",201 to 500 employees,2011,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1
