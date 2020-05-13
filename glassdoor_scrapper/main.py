@@ -192,7 +192,7 @@ def get_jobs(keyword, num_jobs, verbose):
         # Clicking on the "next page" button
         try:
             # FooterPageNav > div > ul > li.next > a
-
+            # //*[@id="FooterPageNav"]/div/ul/li[7]/a
             driver.find_element_by_xpath('.//li[@class="next"]//a').click()
         except NoSuchElementException:
             print("Scraping terminated before reaching target number of jobs. Needed {}, got {}.".format(num_jobs,
@@ -202,6 +202,6 @@ def get_jobs(keyword, num_jobs, verbose):
     return pd.DataFrame(jobs)  # This line converts the dictionary object into a pandas DataFrame.
 
 
-df = get_jobs("data scientist", 5, False)
-csv_path = os.path.join(proj_dir, "data.db_salary.csv")
+df = get_jobs("data scientist", 100, False)
+csv_path = os.path.join(proj_dir, "glassdoor_jobs.csv")
 df.to_csv(csv_path)
