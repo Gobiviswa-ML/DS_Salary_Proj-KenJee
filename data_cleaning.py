@@ -20,9 +20,10 @@ pd.set_option('display.width', desired_width)
 df = df[df['Salary Estimate'] != "-1"]
 
 # Formatting salary
-df['hourly'] = df['Salary Estimate'].apply(lambda x: 1 if 'Per Hour' in x.lower() else 0)
-df['employer_provided'] = df['Salary Estimate'].apply(lambda x: 1 if 'Employer Provided Salary:' in x.lower() else 0)
-
+df['hourly'] = df['Salary Estimate'].apply(lambda x: 1 if 'per hour' in x.lower() else 0)
+print(df[['hourly']][df['hourly']==1])
+df['employer_provided'] = df['Salary Estimate'].apply(lambda x: 1 if 'employer provided salary:' in x.lower() else 0)
+#
 salary = df['Salary Estimate'].apply(lambda x: x.split('(')[0].strip())
 salary_without_kd = salary.apply(lambda x: x.replace('K', '').replace('$', ''))
 min_strings_df = salary_without_kd.apply(lambda x: x.replace('Per Hour', '').replace('Employer Provided Salary:', ''))
